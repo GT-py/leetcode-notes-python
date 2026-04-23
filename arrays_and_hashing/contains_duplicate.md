@@ -4,10 +4,10 @@
 - Topic: Hash Set
 
 ## Idea
-ハッシュセットを使うことでO(1)で重複があるかどうか判別する．
+ハッシュセットを使うことでO(n)で重複があるかどうか判別する．
 
 ## Complexity
-- Time O(1)
+- Time O(n)
 - Space O(n)
 
 ## Tips
