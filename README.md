@@ -18,11 +18,11 @@ LeetCodeの学習記録を，分野ごとに整理して残すためのリポジ
 - backtracking/
 - heap_and_priority_queue/
 - graphs/
-- 1_d_dp
+- 1d_dp
 - intervals/
 - greedy/
 - advanced_graphs/
-- 2_d_dp/
+- 2d_dp/
 - bit_manipulation/
 - math_and_geometry/
 
