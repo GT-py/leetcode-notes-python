@@ -1,7 +1,7 @@
 # Contains Duplicate
  
 - Difficulty: Easy
-- Topic: Hash Set
+- Topic: Array, Hash Table, Sorting
 
 ## Idea
 ハッシュセットを使うことでO(n)で重複があるかどうか判別する．

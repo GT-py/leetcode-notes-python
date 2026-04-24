@@ -1,7 +1,7 @@
 # Concatenation of Array
 
 - Difficulty: Easy
-- Topic: Arrays
+- Topic: Arrays, Simulation
 
 ## Idea
 配列を初期化する際に要素数を指定することで効率的にデータを格納する．
@@ -15,10 +15,7 @@
 - Time: O(n)
 - Space: O(n)
 
-## Pattern
-- Arrays
-
-## Python
+## Solution
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
         ans = [0]*len(nums)*2
